@@ -8,10 +8,6 @@ body{
     color: #ffffff;
     background: #000000 url("../img/background1.jpg") no-repeat center top;
 }
-.main-header{
-    width: 100%;
-    position: fixed;
-}
 h1, h2{
     font-size: 30px;
     line-height: 42px;
@@ -417,4 +413,11 @@ h1, h2{
     width: 25px;
     height: 16px;
     background-position: -299px -10px;
+}
+.pont{
+    position: fixed;
+    top: 20px;;
+    right: 0;
+    color: red;
+    font-size: 44px;
 }
