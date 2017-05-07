@@ -4,9 +4,13 @@ body{
     font-weight: 700;
     font-size: 14px;
     line-height: 24px;
-    font-family: 'PT Sans Narrow', 'Arial', sans-serif;
+    font-family: "PT Sans Narrow", "Arial", sans-serif;
     color: #ffffff;
     background: #000000 url("../img/background1.jpg") no-repeat center top;
+}
+.main-header{
+    width: 100%;
+    position: fixed;
 }
 h1, h2{
     font-size: 30px;
